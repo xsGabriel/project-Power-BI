@@ -1,4 +1,5 @@
-# Análise de Dados: Desemprego e Economia no Brasil
+# Análise de Dados: Desemprego e Economia no Brasil  
+# Data Analysis: Unemployment and Economy in Brazil
 
 Trabalho desenvolvido na faculdade com foco em análise e visualização de dados sobre desemprego e economia no Brasil. Utilizei Power BI e Power Query para importar, transformar e exibir os dados em um painel interativo.  
    
